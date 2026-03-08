@@ -15,6 +15,9 @@ Sup! Software engineering student right here.
 [+] fav_linux_distro = "Debian"
 
 ```
+
+## Techs that I have played with
+
 ![bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white&color=black)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![hugo](https://img.shields.io/badge/Hugo-white?style=for-the-badge&logo=hugo)
