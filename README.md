@@ -6,7 +6,7 @@ Sup! Software engineering student right here.
 
 [Miscellaneous]
 [+] user_name = "MaxisFront"
-[*] university_progress << [━―――――――] 7.1% >>
+[*] university_progress << [━―――――――] 9% >>
 [+] os = "Windows (But 50% of the time in WSL2 tho~)"
 
 [NerdyStuff]
