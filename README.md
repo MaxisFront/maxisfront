@@ -7,7 +7,7 @@ Sup! Software engineering student right here.
 [Miscellaneous]
 [+] user_name = "MaxisFront"
 [*] university_progress << [━―――――――] 11.11% >>
-[+] os = "Debian v.XYZ GNOME"
+[+] os = "Debian GNU/Linux XYZ GNOME"
 
 [NerdyStuff]
 [/\] fav_language_paradigm = "OOP"
