@@ -7,7 +7,7 @@ Sup! Software engineering student right here.
 [Miscellaneous]
 [+] user_name = "MaxisFront"
 [*] university_progress << [━―――――――] 11.11% >>
-[+] os = "Windows (But 50% of the time in WSL2 tho~)"
+[+] os = "Debian v.XYZ GNOME"
 
 [NerdyStuff]
 [/\] fav_language_paradigm = "OOP"
