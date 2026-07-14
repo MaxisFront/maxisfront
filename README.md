@@ -8,7 +8,7 @@ Sup! Software engineering student right here.
 [+] user_name = "MaxisFront"
 [*] university_progress << [━―――――――] 11.11% >>
 [+] os = "Debian GNU/Linux XYZ GNOME"
-[+] Languages = { Spanish: "Mother tongue", English: "B2 (Duolingo English Test)" } // lmao
+[+] languages = { Spanish: "Mother tongue", English: "B2 (Duolingo English Test)" } // lmao
 
 [NerdyStuff]
 [/\] fav_language_paradigm = "OOP"
