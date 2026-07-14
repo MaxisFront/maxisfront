@@ -8,6 +8,7 @@ Sup! Software engineering student right here.
 [+] user_name = "MaxisFront"
 [*] university_progress << [━―――――――] 11.11% >>
 [+] os = "Debian GNU/Linux XYZ GNOME"
+[+] Languages = { Spanish: "Mother tongue", English: "B2 (Duolingo English Test)" } // lmao
 
 [NerdyStuff]
 [/\] fav_language_paradigm = "OOP"
@@ -28,7 +29,7 @@ Sup! Software engineering student right here.
 ![python](https://img.shields.io/badge/Python-243954?style=for-the-badge&logo=python)
 ---
 
-## Next to learn
+## In learning progress...
 
 ![node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
