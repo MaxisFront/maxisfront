@@ -12,7 +12,7 @@ Sup! Software engineering student right here.
 
 [NerdyStuff]
 [/\] fav_language_paradigm = "OOP"
-[/\] fav_sector = "Pentesting"
+[/\] fav_sector = "Cybersecurity (Pentesting)"
 [+] fav_linux_distro = "Debian"
 
 ```
