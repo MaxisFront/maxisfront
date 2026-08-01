@@ -1,4 +1,6 @@
-Sup! Software engineering student right here.
+Sup! Software engineering student and cybersecurity enthusiast right here.
+
+`My Cybersecurity blog!` [https://maxisfront.me/](Maxisfront.me)
 
  `o.o I love learning techy stuff and pentesting in my spare time`
 
