@@ -1,6 +1,6 @@
 Sup! Software engineering student and cybersecurity enthusiast right here.
 
-`My Cybersecurity blog!` [https://maxisfront.me/](Maxisfront.me)
+`My Cybersecurity blog!` [maxisfront.me](https://maxisfront.me/)
 
  `o.o I love learning techy stuff and pentesting in my spare time`
 
