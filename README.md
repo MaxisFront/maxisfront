@@ -23,7 +23,7 @@ Sup! Software engineering student and cybersecurity enthusiast right here.
 ## Techs that I have played with
 
 ![bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white&color=black)
-![hugo](https://img.shields.io/badge/Hugo-white?style=for-the-badge&logo=hugo)
+![python](https://img.shields.io/badge/Python-243954?style=for-the-badge&logo=python)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-1E598F?style=for-the-badge&logo=css&logoColor=white)
@@ -31,7 +31,7 @@ Sup! Software engineering student and cybersecurity enthusiast right here.
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-%3C%3E?style=for-the-badge&logo=openjdk&logoColor=%23000000&labelColor=white&color=white)
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%3C%3E?style=for-the-badge&logo=springboot&logoColor=white&labelColor=%235F963B&color=%235F963B)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![python](https://img.shields.io/badge/Python-243954?style=for-the-badge&logo=python)
+![hugo](https://img.shields.io/badge/Hugo-white?style=for-the-badge&logo=hugo)
 ---
 
 ## In learning progress...
